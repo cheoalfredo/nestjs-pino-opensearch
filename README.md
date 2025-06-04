@@ -99,5 +99,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 =======
 # nestjs-pino-opensearch
+<<<<<<< HEAD
 NestJS-Pino sinking logs to AWS OpenSearch using AWS credentials
 >>>>>>> 80072a2 (Initial commit)
+=======
+Sample implementation of the usage of the DestinationStream to sink logs to an AWS OpenSearch instance that requires AWs IAM Auth.
+
+Make sure to have the ~/.aws/credentials file
+>>>>>>> df6b61b (updated node url)

@@ -13,7 +13,7 @@ import { OpenSearchTransport } from './opensearch-transport';
         },
         new OpenSearchTransport({
           opensearchConfig: {
-            node: 'https://search-amplify-opense-5mnaxuju7qz2-dklzddit56lsr436ptoc2oyqqu.ap-south-1.es.amazonaws.com',
+            node: 'https://xxxxxxx.ap-south-1.es.amazonaws.com',
           },
           indexName: 'nestjs-app-logs',
         }),
